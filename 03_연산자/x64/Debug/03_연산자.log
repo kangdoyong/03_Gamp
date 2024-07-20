@@ -1,0 +1,4 @@
+﻿  02_조건연산자.c
+C:\Users\rkden\Desktop\doyong\평일 게임프로그래밍\03_연산자\02_조건연산자.c(22,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rkden\Desktop\doyong\평일 게임프로그래밍\03_연산자\02_조건연산자.c(24,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  03_연산자.vcxproj -> C:\Users\rkden\Desktop\doyong\평일 게임프로그래밍\03_연산자\x64\Debug\03_연산자.exe

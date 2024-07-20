@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\01_형변환연산자">
+      <UniqueIdentifier>{0713abec-256f-4ba1-9c65-57ceedff2d8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02_산술연산자">
+      <UniqueIdentifier>{00e8d5e3-2268-4130-aaa6-0b4446c98cde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\03_단항연산자">
+      <UniqueIdentifier>{369638ec-f2de-4d52-baa5-aca2ed6e0b81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\04_관계연산자">
+      <UniqueIdentifier>{5d3a98f3-fcdc-4006-a001-0988f2d9a2ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\05_논리연산자">
+      <UniqueIdentifier>{3e994501-cd29-4a4b-94f6-ec7d22169a5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\06_조건연산자">
+      <UniqueIdentifier>{df2b7c2e-9b7d-406d-adca-4514753f214b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01.형변환.c">
+      <Filter>소스 파일\01_형변환연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="01_산술연산자.c">
+      <Filter>소스 파일\02_산술연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="02_산술연산자.c">
+      <Filter>소스 파일\02_산술연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="01_단항연산자.c">
+      <Filter>소스 파일\03_단항연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="01_관계연산자.c">
+      <Filter>소스 파일\04_관계연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="02_관계연산자.c">
+      <Filter>소스 파일\04_관계연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="01_논리연산자.c">
+      <Filter>소스 파일\05_논리연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="01_조건연산자.c">
+      <Filter>소스 파일\06_조건연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="02_조건연산자.c">
+      <Filter>소스 파일\06_조건연산자</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
